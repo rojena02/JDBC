@@ -6,6 +6,7 @@ public class View {
     JTextField textFieldId, textFieldUsername;
     JPasswordField passwordField;
     JButton btnInsert;
+    JButton testField;
 
     public View(){
         F = new JFrame("login form");
